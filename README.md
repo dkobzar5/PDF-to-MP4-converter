@@ -40,3 +40,5 @@ The **PDF-to-MP3 Converter** is a desktop application designed to convert PDF do
    ```bash
    python main.py
    ```
+#### Screenshot
+![PDF_converter](https://github.com/user-attachments/assets/df02d48c-6f8c-4c13-abb3-7933a03fe045)
